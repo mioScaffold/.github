@@ -1,1 +1,2 @@
-# .github
+# The thing
+Some pieces for things to connect to other things and make some stuff...
